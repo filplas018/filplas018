@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+  <h1>Do you dance?</h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUyaGV5OXhqNDAwN3k5aTRsdDl3Nnp2YjRxbXNwZ2Y3enZtdmNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEC45sbOpCoEg/giphy.gif"/>
 <div id="badges">
   <a href="https://cz.linkedin.com/in/filip-plass-5167b0241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
