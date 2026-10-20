@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <h1>Do you dance?</h1>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUyaGV5OXhqNDAwN3k5aTRsdDl3Nnp2YjRxbXNwZ2Y3enZtdmNxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEC45sbOpCoEg/giphy.gif"/>
 <div id="badges">
   <a href="https://cz.linkedin.com/in/filip-plass-5167b0241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +20,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Czechia.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Czechia.
 - :telescope: I’m working as a Junior Developer and Python Lector
 
 - :seedling: Exploring Technical Content Writing.
